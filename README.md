@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Principal Software Engineer @ Red Hat on Search Relevance, Text Understanding and Ranking.
+- 🌱 I’m currently learning Deep Learning as a fast.ai international fellow.
+
 <!--
 **manisnesan/manisnesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
