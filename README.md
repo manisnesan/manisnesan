@@ -12,6 +12,7 @@
 ### Talks
 
 - [Using Intent Data to Optimize the Self-Solve Experience](https://lucidworks.com/post/red-hat-self-service-customer-support-solution/) - How Red Hat uses intent data to automate and improve workflow efficiency for support personnel and contact centers - Activate, Virtual Search & AI Conference  - 2020
+- [Empowering Customers to Self Solve: A Findability Journey - Activate 2018](https://www.youtube.com/watch?v=HhXPl4QP2w0) - Evolution of different search techniques in our Solution Engine and the customers’ search journey.
 
 <!--
 **manisnesan/manisnesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
