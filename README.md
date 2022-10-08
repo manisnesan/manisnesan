@@ -8,6 +8,7 @@
 * [LinkedIn](https://www.linkedin.com/in/manisnesan)
 * [Twitter](https://twitter.com/manisnesan)
 * [fastai forum](https://forums.fast.ai/u/msivanes/summary)
+* [Blog](https://manisnesan.github.io/chrestotes/)
 
 ### Talks
 
