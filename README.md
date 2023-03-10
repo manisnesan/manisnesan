@@ -9,6 +9,7 @@
 * [Twitter](https://twitter.com/manisnesan)
 * [fastai forum](https://forums.fast.ai/u/msivanes/summary)
 * [Blog](https://manisnesan.github.io/chrestotes/)
+* [Hugging Face Space](https://huggingface.co/msivanes)
 
 ### Talks
 
